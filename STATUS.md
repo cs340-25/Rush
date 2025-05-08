@@ -23,7 +23,7 @@ What test have you run?
 What are your goals for the next iteration?
 - Our goals for the next iteration is to finally implement many more features and flesh out the app. These features will include a newsletter, announcements, calendar, poll form, messages, and possibly many more.
 
-![Alt](images/
+![Alt](images/Screenshot_2025-05-07_at_6.39.13_PM.png)
 
 ### Team
 What role did the team members have throughout the project?
